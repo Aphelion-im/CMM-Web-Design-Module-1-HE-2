@@ -9,4 +9,6 @@ Voor deze opdracht hebben we Photoshop gebruikt om pixel precieze slices te make
 
 Voor deze opdracht heb ik de LCARS interface uit Star Trek nagemaakt.
 
+[Live Demo LCARS interface Star Trek](https://cmm-web-design-module-1-he-2.netlify.app)
+
 ![LCARS interface Startrek](./assets/screenshot-lcars.jpg)
