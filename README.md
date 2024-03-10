@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7f73fc15-7a78-45ec-8886-308c62e40a1d/deploy-status)](https://app.netlify.com/sites/cmm-web-design-module-1-he-2/deploys)
 # College of Multimedia Opdracht HE-2 
 
 __Opdrachtomschrijving__
